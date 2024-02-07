@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Recaptcha1.props" />
+</Project>
